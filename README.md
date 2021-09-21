@@ -26,4 +26,4 @@ Future functionality:
 	Create error display for dividing by zero
 	Better design
 	Keyboard support
-
+	Positive/negative toggle

@@ -44,8 +44,15 @@ p {
     margin: 8px;
 }
 
+.branding {
+    font-style: italic;
+    font-style: 16px;
+    margin-top: 10px;
+}
+
 #storedNumber {
     font-size: 24px;
+    margin-top: 24px;
 }
 
 .blank {
