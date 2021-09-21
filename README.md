@@ -18,8 +18,10 @@ Special functions:
 	Dividing by zero is protected, but no error is displayed
 	Floating point numbers can be input and operated on
 
+21 Sept 2021:
+	Multiple operations can now be strung together
+
 Future functionality:
-	Stringing multiple operations at once
 	Rounding displayed values
 	Create error display for dividing by zero
 	Better design
